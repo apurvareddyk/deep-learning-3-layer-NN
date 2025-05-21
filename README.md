@@ -107,7 +107,7 @@ Each notebook in this repository implements a **3-layer deep neural network** us
 ## 📄 Walkthrough Video  
 A complete walkthrough video explaining the **Colab notebooks, implementation details, and training process** is available:  
 
-📺 **[Video Implementation](www.youtube.com)**  
+📺 **[Video Implementation](https://youtu.be/nJQ4BmaI6oQ?si=KECdPV_b5jnqeYtV)**  
 
 ---
 
